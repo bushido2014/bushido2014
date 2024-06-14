@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Viorel Soltan</h2>
-<h3 align="center">A passionate frontend developer from Moldova</h3>
+<h3 align="center">A dedicated frontend developer from Moldova</h3>
 
 -----
 
