@@ -24,6 +24,8 @@
 
 
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bushido2014&show_icons=true&theme=transparent" />
+ <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">
+    <img  alt="bushido2014's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/bushido2014?cardType=level&fontFamily=&preferLogin=false" />
+  </a>
 
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bushido2014&layout=compact" />
