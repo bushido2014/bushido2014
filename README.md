@@ -24,7 +24,7 @@
 
 
 
- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=bushido2014&show_icons=true)
+ ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=bushido2014&show_icons=true) &nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bushido2014&layout=compact)
 
 
